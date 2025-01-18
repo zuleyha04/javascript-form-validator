@@ -1,0 +1,26 @@
+body {
+  background-color: rgb(121, 157, 199);
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.card {
+  background-color: rgb(251, 251, 251);
+  box-shadow: 1px 4px 8px 1px rgb(255, 253, 253);
+}
+
+.card-header {
+  background-color: rgb(121, 157, 199);
+  display: flex;
+  justify-content: center;
+}
+
+.btn {
+  background-color: rgb(121, 157, 199);
+}
+
+.btn:hover {
+  color: rgb(121, 157, 199);
+  font-weight: bold;
+  border: 2px solid rgb(121, 157, 199);
+}
